@@ -1,0 +1,9 @@
+{
+  "name": "underscore",
+  "repo": "virtru-components/underscore",
+  "version": "1.4.4",
+  "description": "Javascript utility belt",
+  "scripts": [
+    "index.js"
+  ]
+}
